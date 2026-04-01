@@ -72,7 +72,7 @@ public class cubicSpline {
 
         // Пример вычисления значения интерполяционного многочлена
         System.out.println("\n===============================================");
-        System.out.println("Пример вычисления значения многочлена:");
+        System.out.println("Вычисления значения многочлена:");
         System.out.println("===============================================");
         double xTest = 0.0; // точка для вычисления
         int segment = findSegment(x, xTest);
