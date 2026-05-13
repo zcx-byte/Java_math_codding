@@ -3,12 +3,13 @@ import java.util.Locale;
 public class NumericalDifferentiation {
 
     // вариант 10.
+    // для 1-ой подстановки
     private static final double X0 = Math.PI / 4.0;
     private static final double EPS = 0.001;
     private static final double M1 = 21.0;
     private static final double M2 = 183.0;
 
-    // для второй задачи.
+    // для второй подстановки.
     private static final double[] X_TAB = {0.2, 0.4, 0.6, 0.8, 1.0, 1.2};
     private static final double[] Y_TAB = {0.1974, 0.3805, 0.5404, 0.6747, 0.7854, 0.8761};
 
@@ -25,7 +26,7 @@ public class NumericalDifferentiation {
     // Первая задача: производная функции, заданной формулой.
     private static void solveProblem1() {
 
-        System.out.println("Задача 1. Производная аналитической функции");
+        System.out.println("Задача 1.");
 
         // Сначала определяем, какой шаг h можно взять, чтобы не выйти за пределы точности eps.
         // для первой формулы погрешность не превышает (M1 / 6) * h в квадрате.
@@ -39,19 +40,14 @@ public class NumericalDifferentiation {
         double maxH2 = Math.pow(30 * EPS / M2, 0.25);
         System.out.println("Предельный шаг для второй формулы: " + maxH2);
 
-        // На практике всегда берут шаг чуть меньше теоретического предела, чтобы точно попасть в eps.
-        // Умножаем на 0.95, оставляя небольшой запас на округления.
-        double h1 = maxH1 * 0.95;
-        double h2 = maxH2 * 0.95;
-
         // Считаем по первой формуле: (f(x0 + h) - f(x0 - h)) / (2 * h)
-        double deriv1 = (f(X0 + h1) - f(X0 - h1)) / (2.0 * h1);
-        System.out.println("Первая формула (шаг " + h1 + "): " + deriv1);
+        double deriv1 = (f(X0 + maxH1) - f(X0 - maxH1)) / (2.0 * maxH1);
+        System.out.println("Первая формула (шаг " + maxH1 + "): " + deriv1);
 
         // Вторая формула:
         // (f(x0 - 2h) - 8*f(x0 - h) + 8*f(x0 + h) - f(x0 + 2h)) / (12 * h)
-        double deriv2 = (f(X0 - 2 * h2) - 8 * f(X0 - h2) + 8 * f(X0 + h2) - f(X0 + 2 * h2)) / (12.0 * h2);
-        System.out.println("Вторая формула (шаг " + h2 + "): " + deriv2);
+        double deriv2 = (f(X0 - 2 * maxH2) - 8 * f(X0 - maxH2) + 8 * f(X0 + maxH2) - f(X0 + 2 * maxH2)) / (12.0 * maxH2);
+        System.out.println("Вторая формула (шаг " + maxH2 + "): " + deriv2);
 
     }
 
