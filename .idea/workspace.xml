@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="388cfbd6-1e57-4546-b1ed-07b692def38a" name="Changes" comment="all done">
+      <change beforePath="$PROJECT_DIR$/2nd year(4st semester)/19. Otzig/src/Annealing.java" beforeDir="false" afterPath="$PROJECT_DIR$/2nd year(4st semester)/19. Otzig/src/Annealing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zcx-byte&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zcx-byte/Java_math_codding.git&quot;,
+    &quot;accountId&quot;: &quot;44586a1e-8bdd-4a4e-bb17-a1eadc0a9964&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34YjNqziiKQGpnfUkhB0eAdhhOu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Annealing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CauchyEquationSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionMinimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GaussJordanSolver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LaGrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NewTon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumericalDifferentiation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpsonsMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrapezoidMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cubicSpline.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_11b.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main_78v.executor&quot;: &quot;Run&quot;,
+    &quot;Application.manyDimensionalOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.number_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oneDimensionalOptimization.executor&quot;: &quot;Run&quot;,
+    &quot;Application.quadraticSpline.executor&quot;: &quot;Run&quot;,
+    &quot;Application.schema1.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/javva_repozit/Java_math_codding&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Desktop/javva_repozit/Java_math_codding/13. one-dimensional optimization/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\javva_repozit\Java_math_codding\2nd year(4st semester)" />
+      <recent name="C:\Users\User\Desktop\javva_repozit\Java_math_codding" />
+      <recent name="C:\Users\User\Desktop\javva_repozit\Java_math_codding\2nd year, 4st semester" />
+      <recent name="C:\Users\User\Desktop\javva_repozit\Java_math_codding\3nd year; 4st semester" />
+      <recent name="C:\Users\User\Desktop\javva_repozit\Java_math_codding\SLAU" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumericalDifferentiation">
+    <configuration name="LaGrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LaGrange" />
+      <module name="14. interpolations Methods" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="13.one-dimensional optimization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumericalDifferentiation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumericalDifferentiation" />
+      <module name="17. Diff" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oneDimensionalOptimization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneDimensionalOptimization" />
+      <module name="13. dimensional optimization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="schema1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schema1" />
+      <module name="17. Diff" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2nd year(4st semester)/17. Diff/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NumericalDifferentiation" />
+      <item itemvalue="Application.LaGrange" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.oneDimensionalOptimization" />
+      <item itemvalue="Application.schema1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumericalDifferentiation" />
+        <item itemvalue="Application.schema1" />
+        <item itemvalue="Application.LaGrange" />
+        <item itemvalue="Application.oneDimensionalOptimization" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="388cfbd6-1e57-4546-b1ed-07b692def38a" name="Changes" comment="" />
+      <created>1761397362960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761397362960</updated>
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1761398212755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761398212755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="переделываение всего">
+      <option name="closed" value="true" />
+      <created>1761398345934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761398345934</updated>
+    </task>
+    <task id="LOCAL-00003" summary="полностью сделанный выч. мат">
+      <option name="closed" value="true" />
+      <created>1761823052016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761823052016</updated>
+    </task>
+    <task id="LOCAL-00004" summary="всё сделано и сдано">
+      <option name="closed" value="true" />
+      <created>1764654142001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764654142001</updated>
+    </task>
+    <task id="LOCAL-00005" summary="red">
+      <option name="closed" value="true" />
+      <created>1766934397515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766934397515</updated>
+    </task>
+    <task id="LOCAL-00006" summary="red">
+      <option name="closed" value="true" />
+      <created>1766934454447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766934454447</updated>
+    </task>
+    <task id="LOCAL-00007" summary="red, add">
+      <option name="closed" value="true" />
+      <created>1773764973764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773764973764</updated>
+    </task>
+    <task id="LOCAL-00008" summary="red, add">
+      <option name="closed" value="true" />
+      <created>1775005296694</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775005296694</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all done">
+      <option name="closed" value="true" />
+      <created>1776190054656</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776190054656</updated>
+    </task>
+    <task id="LOCAL-00010" summary="all done">
+      <option name="closed" value="true" />
+      <created>1778633744366</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1778633744366</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="переделываение всего" />
+    <MESSAGE value="полностью сделанный выч. мат" />
+    <MESSAGE value="всё сделано и сдано" />
+    <MESSAGE value="red" />
+    <MESSAGE value="red, add" />
+    <MESSAGE value="all done" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/2nd year(3st semester)/Gauss_Jord/src/Main.java</url>
+          <line>179</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

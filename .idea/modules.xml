@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/11_QR eigenvalue algorithm/11_QR eigenvalue algorithm.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/11_QR eigenvalue algorithm/11_QR eigenvalue algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/12_Solving a nonlinear equation/12_Solving a nonlinear equation.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/12_Solving a nonlinear equation/12_Solving a nonlinear equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/13. dimensional optimization/13. dimensional optimization.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/13. dimensional optimization/13. dimensional optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3nd year; 4st semester/13.one-dimensional optimization/13.one-dimensional optimization.iml" filepath="$PROJECT_DIR$/3nd year; 4st semester/13.one-dimensional optimization/13.one-dimensional optimization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/14. interpolations Methods/14. interpolations Methods.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/14. interpolations Methods/14. interpolations Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/15. spline interpolation/15. spline interpolation.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/15. spline interpolation/15. spline interpolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/16. Integration/16. Integration.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/16. Integration/16. Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/17. Diff/17. Diff.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/17. Diff/17. Diff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/18. Koshi/18. Koshi.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/18. Koshi/18. Koshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(4st semester)/19. Otzig/19. Otzig.iml" filepath="$PROJECT_DIR$/2nd year(4st semester)/19. Otzig/19. Otzig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/Gauss_Jord/Gauss_Jord.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/Gauss_Jord/Gauss_Jord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/.idea/Java_math_codding.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/.idea/Java_math_codding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/adjugate matrix method/adjugate matrix method.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/adjugate matrix method/adjugate matrix method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/9_matrix inversion by the square root method/matrix inversion by the square root method.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/9_matrix inversion by the square root method/matrix inversion by the square root method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/matrix inversion using LU decomposition/matrix inversion using LU decomposition.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/matrix inversion using LU decomposition/matrix inversion using LU decomposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/metod_Cholesky/metod_Cholesky.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/metod_Cholesky/metod_Cholesky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/SLAU/metod_zaidela/metod_zaidela.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/SLAU/metod_zaidela/metod_zaidela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/qwadratic/qwadratic.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/qwadratic/qwadratic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/SLAU/simple iterations/simple iterations.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/SLAU/simple iterations/simple iterations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2nd year(3st semester)/tridiagonal matrix algorithm/tridiagonal matrix algorithm.iml" filepath="$PROJECT_DIR$/2nd year(3st semester)/tridiagonal matrix algorithm/tridiagonal matrix algorithm.iml" />
+    </modules>
+  </component>
+</project>
